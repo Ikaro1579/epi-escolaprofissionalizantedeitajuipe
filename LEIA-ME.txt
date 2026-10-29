@@ -1,0 +1,8 @@
+SITE DA EPI - Escola Profissionalizante de Itajuipe
+
+Conteudo desta pasta:
+  index.html  -> a pagina do site
+  images/     -> as imagens usadas no site
+
+Para publicar: envie esta pasta inteira para uma hospedagem (por exemplo, Netlify Drop em app.netlify.com/drop)
+e depois aponte o dominio para ela. Nao mude os nomes dos arquivos.
